@@ -23,7 +23,7 @@
 
 ---
 
-### About me:
+### About myself:
 Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica :costa_rica:.
 
 - Currently working as a Service Data Analyst at Qualfon.
