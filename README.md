@@ -24,7 +24,7 @@
 ---
 
 ### About me:
-Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica.
+Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica :costa_rica:.
 
 - Currently working as a Service Data Analyst at Qualfon.
 - Approximately 1 year of experience as a Data Analyst using Excel.
@@ -34,7 +34,7 @@ Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica.
 
 ---
 
-### Languages and Tools I'am familiar with:
+### Languages and Tools I'm familiar with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -44,14 +44,14 @@ Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica.
   <img src="https://github.com/file-icons/icons/blob/master/svg/Microsoft-Excel.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/pull/1843/commits/50b3ccf2dfbfdc67eed3fbbb6031815ae3c26a19" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/phatbhoy67/simple-icons/blob/50b3ccf2dfbfdc67eed3fbbb6031815ae3c26a19/icons/tableau.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### My stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sebraor&theme=shadow-blue)](https://git.io/streak-stats)
 <!--
 **Sebraor/Sebraor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
