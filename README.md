@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sebraor&style=flat-square&color=blue" alt=""/>
 </div>
 
-
+---
 <div id="badges" align="center">
 <h1>
   Hi, welcome to my profile!
@@ -55,7 +55,7 @@ Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica :costa_rica:.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebraor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebraor&layout=compact&theme=shadow-blue)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
