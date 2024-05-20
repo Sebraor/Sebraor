@@ -46,6 +46,7 @@ Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica :costa_rica:.
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/phatbhoy67/simple-icons/blob/50b3ccf2dfbfdc67eed3fbbb6031815ae3c26a19/icons/tableau.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/LaurentTreguier/vscode-simple-icons/blob/master/source/simple-icons/vscode.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
 ---
