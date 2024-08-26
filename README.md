@@ -28,9 +28,9 @@ Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica :costa_rica:.
 
 - Currently working as a Service Data Analyst at Qualfon.
 - Approximately 1 year of experience as a Data Analyst using Excel.
-- I'll finish my Associate Degree in Data Analytics in June 2024 and I'm looking forward to obtaining related certifications and certificates.
+- I finished my Associate Degree in Data Analytics in June 2024 and I'm looking forward to obtaining related certifications and certificates.
 - Always looking for new opportunities for development and experience in data analysis tools.
-- Would like to transition to a data engineering position in the future.
+- Would like to transition to a data engineering or data science position in the future.
 
 ---
 
