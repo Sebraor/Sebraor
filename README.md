@@ -26,7 +26,7 @@
 ### About myself:
 Hi, my name is Sebastian and I'm a Data Analyst from Costa Rica :costa_rica:.
 
-- Currently working as a Service Data Analyst at Qualfon.
+- Currently working as a Service Data Analyst at LSG Sky Chefs.
 - Approximately 1 year of experience as a Data Analyst using Excel.
 - I finished my Associate Degree in Data Analytics in June 2024 and I'm looking forward to obtaining related certifications and certificates.
 - Always looking for new opportunities for development and experience in data analysis tools.
