@@ -24,7 +24,7 @@
 ---
 
 ### About myself:
-I'm a Junior Data Analyst and data enthusiast with hands-on experience in data analysis using Excel, data management in SAP, and supporting project management initiatives. Currently pursuing a Bachelor's degree in Information Systems, I am passionate about data and actively working toward transitioning into a Data Engineering role.
+I'm a Master Data Analyst, Data Analyst and Data Enthusiast with hands-on experience in data analysis, management, engineering, and automating while supporting project management initiatives. Currently pursuing a Bachelor's degree in Information Systems.
 
 ---
 
